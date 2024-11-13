@@ -14,3 +14,9 @@ align-items: center;
 padding: 50vw 50vw;
 color: blue;
 }
+.titulo-topo{
+display: flex;
+padding: 500px 500px;
+background-color: black;
+
+}
