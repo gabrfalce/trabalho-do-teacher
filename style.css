@@ -18,5 +18,11 @@ color: blue;
 display: flex;
 padding: 500px 500px;
 background-color: black;
+font-size: 50px;
+
+}
+.navegar{
+display: inline;
+align-items: center;
 
 }
