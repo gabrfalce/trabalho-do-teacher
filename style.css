@@ -5,6 +5,8 @@
 head{
 background-color: black;
 /* padding: 10px 1920vw; */
+display: flex;
+justify-content: center;
 }
 .navegar{
 display: flex;
